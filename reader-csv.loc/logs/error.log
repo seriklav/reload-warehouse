@@ -1,0 +1,296 @@
+2018-01-22 1:06:21 - PHP Warning:  array_shift() expects parameter 1 to be array, object given in /Users/serik_lav/Documents/www/reader-csv.loc/controller/home.php on line 13
+2018-01-22 1:06:49 - PHP Notice:  Only variables should be passed by reference in /Users/serik_lav/Documents/www/reader-csv.loc/controller/home.php on line 13
+2018-01-22 1:20:16 - PHP Notice:  Use of undefined constant DIR_APPLICATION - assumed 'DIR_APPLICATION' in /Users/serik_lav/Documents/www/reader-csv.loc/library/loader.php on line 55
+2018-01-22 1:20:16 - PHP Notice:  Error: Could not load model DIR_APPLICATIONmodel/model/products.php! in /Users/serik_lav/Documents/www/reader-csv.loc/library/loader.php on line 63
+2018-01-22 1:20:31 - PHP Notice:  Use of undefined constant DIR_APPLICATION - assumed 'DIR_APPLICATION' in /Users/serik_lav/Documents/www/reader-csv.loc/library/loader.php on line 55
+2018-01-22 1:20:31 - PHP Notice:  Error: Could not load model DIR_APPLICATIONmodel/model/products.php! in /Users/serik_lav/Documents/www/reader-csv.loc/library/loader.php on line 63
+2018-01-22 1:21:21 - PHP Notice:  Error: Could not load model /Users/serik_lav/Documents/www/reader-csv.loc/model/model/products.php! in /Users/serik_lav/Documents/www/reader-csv.loc/library/loader.php on line 63
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 1'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 2'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 3'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 4'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 5'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 6'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:23:13 - PHP Notice:  Error: Unknown column 'name' in 'where clause'<br />Error No: 1054<br />SELECT * FROM `product` WHERE `name` = 'Product 7'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 2:23:13 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 13
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined index: update in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 2:27:21 - PHP Notice:  Undefined variable: action in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 14
+2018-01-22 2:27:21 - PHP Notice:  Undefined variable: products in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 35
+2018-01-22 2:28:48 - PHP Notice:  Undefined variable: action in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 14
+2018-01-22 2:28:48 - PHP Notice:  Undefined variable: products in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 35
+2018-01-22 2:30:15 - PHP Notice:  Undefined variable: action in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 14
+2018-01-22 2:30:15 - PHP Notice:  Undefined variable: products in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 35
+2018-01-22 2:35:10 - PHP Notice:  Undefined index: name in /Users/serik_lav/Documents/www/reader-csv.loc/controller/home.php on line 25
+2018-01-22 2:35:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/serik_lav/Documents/www/reader-csv.loc/index.php:92) in /Users/serik_lav/Documents/www/reader-csv.loc/library/response.php on line 12
+2018-01-22 12:33:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php:23) in /Users/serik_lav/Documents/www/reader-csv.loc/library/response.php on line 12
+2018-01-22 12:35:01 - PHP Notice:  Undefined variable: action in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 14
+2018-01-22 12:35:01 - PHP Notice:  Undefined variable: products in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 35
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:57:37 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:04 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:58:16 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:45 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 12:59:47 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 13:00:30 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 15
+2018-01-22 13:00:30 - PHP Warning:  Illegal string offset 'product_name' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:00:30 - PHP Warning:  Illegal string offset 'qty' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:00:30 - PHP Warning:  Illegal string offset 'warehouse' in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 40
+2018-01-22 13:01:11 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:01:23 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 0 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 1 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 2 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 3 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 4 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 5 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined offset: 6 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:10:05 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 0 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 1 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 2 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 3 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 4 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 5 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined offset: 6 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:11:59 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 0 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 1 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 2 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 3 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 4 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 5 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined offset: 6 in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: warehouse in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 17
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: product_name in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 38
+2018-01-22 13:12:00 - PHP Notice:  Undefined index: qty in /Users/serik_lav/Documents/www/reader-csv.loc/view/home.tpl on line 39
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined variable: metr in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:12:38 - PHP Notice:  Undefined index:  in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Notice:  Undefined variable: id in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 50
+2018-01-22 13:16:52 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/serik_lav/Documents/www/reader-csv.loc/index.php:92) in /Users/serik_lav/Documents/www/reader-csv.loc/library/response.php on line 12
+2018-01-22 13:42:34 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS value_sum) FROM `product` WHERE product_name = 'Product 1'' at line 1<br />Error No: 1064<br />SELECT warehouse,qty,(SUM(qty) AS value_sum) FROM `product` WHERE product_name = 'Product 1'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:34 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:34 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS value_sum) FROM `product` WHERE product_name = 'Product 2'' at line 1<br />Error No: 1064<br />SELECT warehouse,qty,(SUM(qty) AS value_sum) FROM `product` WHERE product_name = 'Product 2'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:34 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:34 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS value_sum) FROM `product` WHERE product_name = 'Product 3'' at line 1<br />Error No: 1064<br />SELECT warehouse,qty,(SUM(qty) AS value_sum) FROM `product` WHERE product_name = 'Product 3'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 19
+2018-01-22 13:42:34 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:34 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 20
+2018-01-22 13:42:49 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `product` WHERE product_name = 'Product 1'' at line 1<br />Error No: 1064<br />SELECT  FROM `product` WHERE product_name = 'Product 1'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:49 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:42:49 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `product` WHERE product_name = 'Product 2'' at line 1<br />Error No: 1064<br />SELECT  FROM `product` WHERE product_name = 'Product 2'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:49 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 13:42:49 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `product` WHERE product_name = 'Product 3'' at line 1<br />Error No: 1064<br />SELECT  FROM `product` WHERE product_name = 'Product 3'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 13:42:49 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 18
+2018-01-22 14:13:24 - PHP Notice:  Error: Incorrect column name 'qty '<br />Error No: 1166<br />CREATE TABLE IF NOT EXISTS `oc_product` (
+					`id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+					`product_name` varchar(255) NOT NULL,
+					`qty ` int(10) NOT NULL,
+					`warehouse ` varchar(255) NOT NULL,
+					PRIMARY KEY (`id`)
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+			 in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:24 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />DELETE FROM `product` WHERE qty = '0'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:24 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />SELECT * FROM `product` in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:24 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:24 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:36 - PHP Notice:  Error: Incorrect column name 'qty '<br />Error No: 1166<br />CREATE TABLE IF NOT EXISTS `oc_product` (
+					`id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+					`product_name` varchar(255) NOT NULL,
+					`qty ` int(10) NOT NULL,
+					`warehouse ` varchar(255) NOT NULL,
+					PRIMARY KEY (`id`)
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+			 in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:36 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />DELETE FROM `product` WHERE qty = '0'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:36 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />SELECT * FROM `product` in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:36 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:36 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:38 - PHP Notice:  Error: Incorrect column name 'qty '<br />Error No: 1166<br />CREATE TABLE IF NOT EXISTS `oc_product` (
+					`id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+					`product_name` varchar(255) NOT NULL,
+					`qty ` int(10) NOT NULL,
+					`warehouse ` varchar(255) NOT NULL,
+					PRIMARY KEY (`id`)
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+			 in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:38 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />DELETE FROM `product` WHERE qty = '0'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:38 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />SELECT * FROM `product` in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:38 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:38 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:57 - PHP Notice:  Error: Incorrect column name 'qty '<br />Error No: 1166<br />CREATE TABLE IF NOT EXISTS `product` (
+					`id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+					`product_name` varchar(255) NOT NULL,
+					`qty ` int(10) NOT NULL,
+					`warehouse ` varchar(255) NOT NULL,
+					PRIMARY KEY (`id`)
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+			 in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:57 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />DELETE FROM `product` WHERE qty = '0'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:57 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />SELECT * FROM `product` in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:57 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:57 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:59 - PHP Notice:  Error: Incorrect column name 'qty '<br />Error No: 1166<br />CREATE TABLE IF NOT EXISTS `product` (
+					`id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+					`product_name` varchar(255) NOT NULL,
+					`qty ` int(10) NOT NULL,
+					`warehouse ` varchar(255) NOT NULL,
+					PRIMARY KEY (`id`)
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+			 in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:59 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />DELETE FROM `product` WHERE qty = '0'  in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:59 - PHP Notice:  Error: Table 'read_csv.product' doesn't exist<br />Error No: 1146<br />SELECT * FROM `product` in /Users/serik_lav/Documents/www/reader-csv.loc/library/db/mysqli.php on line 41
+2018-01-22 14:13:59 - PHP Notice:  Trying to get property of non-object in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:13:59 - PHP Warning:  Invalid argument supplied for foreach() in /Users/serik_lav/Documents/www/reader-csv.loc/model/products.php on line 9
+2018-01-22 14:20:09 - PHP Notice:  Undefined index: file in /Users/serik_lav/Documents/www/reader-csv.loc/controller/home.php on line 26
+2018-01-22 14:20:09 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/serik_lav/Documents/www/reader-csv.loc/index.php:92) in /Users/serik_lav/Documents/www/reader-csv.loc/library/response.php on line 12
