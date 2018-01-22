@@ -7,47 +7,54 @@
 					`qty` int(10) NOT NULL,
 					`warehouse` varchar(255) NOT NULL,
 					PRIMARY KEY (`id`)
-				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10;
+				) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
 			");
 		}
 		public function index(){
 			$this->install();
 			$data = array();
 			$this->load->model('products');
-
+			$data['products'] = $this->model_products->getProducts();
 			$data['action'] = $this->url->link('controller/home');
 
+			if(isset($_SESSION['error_file_csv'])){
+				$data['error_file_csv'] = 'Не верный формат файл CSV!!!';
+				unset($_SESSION['error_file_csv']);
+			}
+
 			if(!empty($_FILES['csv_file']['tmp_name'])){
-				$csv = new CSV($_FILES['csv_file']['tmp_name']);
-				$csv_rows = $csv->getCSV();
-				array_shift($csv_rows);
-				//echo '<pre>'; var_dump($csv_rows); echo '</pre>';
-				if($csv_rows){
-					foreach ($csv_rows as $item_csv){
-						$qty = 0;
-						$issetProduct = $this->model_products->issetProduct($item_csv[0], $item_csv[2]);
-
-						if ($issetProduct) {
-							$new_qty = (int)$issetProduct['qty'] + (int)$item_csv[1];
-						} else {
-							$new_qty = (int)$item_csv[1];
+				$mimes = array('text/csv');
+				if(in_array($_FILES['csv_file']['type'],$mimes)) {
+					$csv = new CSV($_FILES['csv_file']['tmp_name']);
+					$csv_rows = $csv->getCSV();
+					array_shift($csv_rows);
+					if($csv_rows){
+						foreach ($csv_rows as $item_csv){
+							$qty = 0;
+							$issetProduct = $this->model_products->issetProduct($item_csv[0], $item_csv[2]);
+							if ($issetProduct) {
+								$new_qty = (int)$issetProduct['qty'] + (int)$item_csv[1];
+							} else {
+								$new_qty = (int)$item_csv[1];
+							}
+							$product_name = $item_csv[0];
+							$warehouse = $item_csv[2];
+							$data = array(
+								'id' => $issetProduct ? $issetProduct['id'] : 0,
+								'product_name' => $product_name,
+								'warehouse' => $warehouse,
+								'qty' => $new_qty,
+							);
+							$id = $this->model_products->addProduct($data);
 						}
-
-						$product_name = $item_csv[0];
-						$warehouse = $item_csv[2];
-
-						$data = array(
-							'id' => $issetProduct ? $issetProduct['id'] : 0,
-							'product_name' => $product_name,
-							'warehouse' => $warehouse,
-							'qty' => $new_qty,
-						);
-						$id = $this->model_products->addProduct($data);
 					}
+				} else {
+					$_SESSION['error_file_csv'] = 1;
 				}
+
 				$this->response->redirect($this->url->link('controller/home'));
 			}
-			$data['products'] = $this->model_products->getProducts();
+
 			if (file_exists(VIEW .'/home.tpl')) {
 				$this->response->setOutput($this->load->view('home.tpl', $data));
 			} else {
